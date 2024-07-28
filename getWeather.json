@@ -1,0 +1,242 @@
+[
+  {
+    "location": {
+      "name": "San Francisco",
+      "country": "USA"
+    },
+    "current": {
+      "temp_c": 15.0,
+      "condition": "Partly cloudy",
+      "wind_kph": 9.0,
+      "humidity": 72
+    }
+  },
+  {
+    "location": {
+      "name": "New York",
+      "country": "USA"
+    },
+    "current": {
+      "temp_c": 22.0,
+      "condition": "Sunny",
+      "wind_kph": 13.0,
+      "humidity": 65
+    }
+  },
+  {
+    "location": {
+      "name": "London",
+      "country": "UK"
+    },
+    "current": {
+      "temp_c": 18.0,
+      "condition": "Rainy",
+      "wind_kph": 15.0,
+      "humidity": 80
+    }
+  },
+  {
+    "location": {
+      "name": "Tokyo",
+      "country": "Japan"
+    },
+    "current": {
+      "temp_c": 28.0,
+      "condition": "Cloudy",
+      "wind_kph": 10.0,
+      "humidity": 70
+    }
+  },
+  {
+    "location": {
+      "name": "Sydney",
+      "country": "Australia"
+    },
+    "current": {
+      "temp_c": 25.0,
+      "condition": "Clear",
+      "wind_kph": 8.0,
+      "humidity": 60
+    }
+  },
+  {
+    "location": {
+      "name": "Paris",
+      "country": "France"
+    },
+    "current": {
+      "temp_c": 20.0,
+      "condition": "Sunny",
+      "wind_kph": 5.0,
+      "humidity": 55
+    }
+  },
+  {
+    "location": {
+      "name": "Berlin",
+      "country": "Germany"
+    },
+    "current": {
+      "temp_c": 17.0,
+      "condition": "Windy",
+      "wind_kph": 20.0,
+      "humidity": 75
+    }
+  },
+  {
+    "location": {
+      "name": "Moscow",
+      "country": "Russia"
+    },
+    "current": {
+      "temp_c": 10.0,
+      "condition": "Snow",
+      "wind_kph": 12.0,
+      "humidity": 90
+    }
+  },
+  {
+    "location": {
+      "name": "Rio de Janeiro",
+      "country": "Brazil"
+    },
+    "current": {
+      "temp_c": 30.0,
+      "condition": "Sunny",
+      "wind_kph": 7.0,
+      "humidity": 65
+    }
+  },
+  {
+    "location": {
+      "name": "Cape Town",
+      "country": "South Africa"
+    },
+    "current": {
+      "temp_c": 22.0,
+      "condition": "Partly cloudy",
+      "wind_kph": 11.0,
+      "humidity": 60
+    }
+  },
+  {
+    "location": {
+      "name": "Mumbai",
+      "country": "India"
+    },
+    "current": {
+      "temp_c": 32.0,
+      "condition": "Humid",
+      "wind_kph": 5.0,
+      "humidity": 85
+    }
+  },
+  {
+    "location": {
+      "name": "Bangkok",
+      "country": "Thailand"
+    },
+    "current": {
+      "temp_c": 34.0,
+      "condition": "Hot",
+      "wind_kph": 6.0,
+      "humidity": 80
+    }
+  },
+  {
+    "location": {
+      "name": "Dubai",
+      "country": "UAE"
+    },
+    "current": {
+      "temp_c": 40.0,
+      "condition": "Clear",
+      "wind_kph": 9.0,
+      "humidity": 50
+    }
+  },
+  {
+    "location": {
+      "name": "Cairo",
+      "country": "Egypt"
+    },
+    "current": {
+      "temp_c": 36.0,
+      "condition": "Sunny",
+      "wind_kph": 12.0,
+      "humidity": 30
+    }
+  },
+  {
+    "location": {
+      "name": "Beijing",
+      "country": "China"
+    },
+    "current": {
+      "temp_c": 29.0,
+      "condition": "Smog",
+      "wind_kph": 8.0,
+      "humidity": 65
+    }
+  },
+  {
+    "location": {
+      "name": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "current": {
+      "temp_c": 24.0,
+      "condition": "Cloudy",
+      "wind_kph": 10.0,
+      "humidity": 70
+    }
+  },
+  {
+    "location": {
+      "name": "Mexico City",
+      "country": "Mexico"
+    },
+    "current": {
+      "temp_c": 23.0,
+      "condition": "Rainy",
+      "wind_kph": 7.0,
+      "humidity": 75
+    }
+  },
+  {
+    "location": {
+      "name": "Seoul",
+      "country": "South Korea"
+    },
+    "current": {
+      "temp_c": 27.0,
+      "condition": "Clear",
+      "wind_kph": 4.0,
+      "humidity": 60
+    }
+  },
+  {
+    "location": {
+      "name": "Istanbul",
+      "country": "Turkey"
+    },
+    "current": {
+      "temp_c": 21.0,
+      "condition": "Windy",
+      "wind_kph": 14.0,
+      "humidity": 65
+    }
+  },
+  {
+    "location": {
+      "name": "Singapore",
+      "country": "Singapore"
+    },
+    "current": {
+      "temp_c": 31.0,
+      "condition": "Humid",
+      "wind_kph": 6.0,
+      "humidity": 75
+    }
+  }
+]
